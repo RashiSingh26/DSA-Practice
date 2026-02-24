@@ -95,6 +95,7 @@ Each solution includes clean code and optimized approach.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RashiSingh26/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Divide and Conquer
 |  |
