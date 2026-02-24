@@ -112,4 +112,8 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
+## Array
+|  |
+| ------- |
+| [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
 <!---LeetCode Topics End-->
