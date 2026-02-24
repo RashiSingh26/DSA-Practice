@@ -52,3 +52,19 @@ Each solution includes clean code and optimized approach.
 ---
 
 ⭐ If you like this repository, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RashiSingh26/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RashiSingh26/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RashiSingh26/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+<!---LeetCode Topics End-->
