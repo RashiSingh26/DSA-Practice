@@ -74,6 +74,7 @@ Each solution includes clean code and optimized approach.
 ## String
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -93,4 +94,12 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
