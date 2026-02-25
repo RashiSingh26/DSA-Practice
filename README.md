@@ -78,6 +78,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ Each solution includes clean code and optimized approach.
 | [0007-reverse-integer](https://github.com/RashiSingh26/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 <!---LeetCode Topics End-->
