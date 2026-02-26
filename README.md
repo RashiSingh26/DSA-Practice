@@ -100,6 +100,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RashiSingh26/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1925-count-square-sum-triples](https://github.com/RashiSingh26/DSA-Practice/tree/master/1925-count-square-sum-triples) |
