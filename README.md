@@ -102,6 +102,7 @@ Each solution includes clean code and optimized approach.
 | [0007-reverse-integer](https://github.com/RashiSingh26/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1925-count-square-sum-triples](https://github.com/RashiSingh26/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Divide and Conquer
 |  |
@@ -122,6 +123,7 @@ Each solution includes clean code and optimized approach.
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/RashiSingh26/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
