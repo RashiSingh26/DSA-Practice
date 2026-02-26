@@ -130,12 +130,14 @@ Each solution includes clean code and optimized approach.
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -155,4 +157,5 @@ Each solution includes clean code and optimized approach.
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
