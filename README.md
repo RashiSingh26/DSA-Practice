@@ -141,6 +141,7 @@ Each solution includes clean code and optimized approach.
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RashiSingh26/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
@@ -162,6 +163,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RashiSingh26/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Two Pointers
