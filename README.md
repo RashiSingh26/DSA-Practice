@@ -7,7 +7,7 @@ I am consistently practicing DSA to improve problem-solving skills and prepare f
 
 ## 📊 Progress Tracker
 
-- 🔥 Total Problems Solved: XX
+- 🔥 Total Problems Solved: 30
 - 🟢 Easy: XX
 - 🟡 Medium: XX
 - 🔴 Hard: XX
