@@ -115,6 +115,7 @@ Each solution includes clean code and optimized approach.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
@@ -134,6 +135,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0027-remove-element) |
@@ -177,6 +179,7 @@ Each solution includes clean code and optimized approach.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0027-remove-element) |
