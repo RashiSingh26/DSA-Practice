@@ -71,6 +71,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0001-two-sum) |
+| [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -145,6 +146,7 @@ Each solution includes clean code and optimized approach.
 | [0152-maximum-product-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RashiSingh26/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -167,6 +169,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RashiSingh26/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
