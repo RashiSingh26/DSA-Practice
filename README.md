@@ -148,6 +148,7 @@ Each solution includes clean code and optimized approach.
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/RashiSingh26/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RashiSingh26/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -161,6 +162,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/RashiSingh26/DSA-Practice/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
