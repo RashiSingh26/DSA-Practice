@@ -19,8 +19,8 @@ class Solution {
             int multiple = 1;
 
             while (dvd >= (temp << 1)) {
-                temp = temp << 1;
-                multiple = multiple << 1;
+                temp = temp << 1;//multiple by 2
+                multiple = multiple << 1;//quotient * 2
             }
 
             dvd -= temp;
