@@ -145,6 +145,7 @@ Each solution includes clean code and optimized approach.
 | [0053-maximum-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -163,6 +164,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/RashiSingh26/DSA-Practice/tree/master/0704-binary-search) |
