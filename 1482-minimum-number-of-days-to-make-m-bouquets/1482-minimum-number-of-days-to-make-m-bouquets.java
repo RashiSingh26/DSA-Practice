@@ -14,13 +14,13 @@ class Solution {
         }
 
         while (low < high) {
-            int mid = (low + high) / 2;
+            int guess = (low + high) / 2;
 
             int flowers = 0;
             int bouquets = 0;
 
             for (int i = 0; i < n; i++) {
-                if (bloomDay[i] <= mid) {
+                if (bloomDay[i] <= guess) {
                     flowers++;
                     if (flowers == k) {
                         bouquets++;
@@ -32,9 +32,9 @@ class Solution {
             }
 
             if (bouquets >= m) {
-                high = mid;
+                high = guess;
             } else {
-                low = mid + 1;
+                low = guess + 1;
             }
         }
 
