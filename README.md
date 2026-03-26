@@ -82,6 +82,7 @@ Each solution includes clean code and optimized approach.
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RashiSingh26/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -191,6 +192,7 @@ Each solution includes clean code and optimized approach.
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RashiSingh26/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RashiSingh26/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
