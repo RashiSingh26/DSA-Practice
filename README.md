@@ -106,6 +106,7 @@ Each solution includes clean code and optimized approach.
 | [0007-reverse-integer](https://github.com/RashiSingh26/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1925-count-square-sum-triples](https://github.com/RashiSingh26/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -151,6 +152,7 @@ Each solution includes clean code and optimized approach.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -212,6 +214,7 @@ Each solution includes clean code and optimized approach.
 | [0027-remove-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
