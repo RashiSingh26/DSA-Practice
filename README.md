@@ -90,6 +90,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0029-divide-two-integers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/RashiSingh26/DSA-Practice/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -160,6 +161,7 @@ Each solution includes clean code and optimized approach.
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/RashiSingh26/DSA-Practice/tree/master/0704-binary-search) |
@@ -185,6 +187,7 @@ Each solution includes clean code and optimized approach.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/RashiSingh26/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RashiSingh26/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -222,6 +225,7 @@ Each solution includes clean code and optimized approach.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
