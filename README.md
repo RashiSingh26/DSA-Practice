@@ -175,6 +175,7 @@ Each solution includes clean code and optimized approach.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RashiSingh26/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RashiSingh26/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
