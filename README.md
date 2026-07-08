@@ -5,16 +5,6 @@ I am consistently practicing DSA to improve problem-solving skills and prepare f
 
 ---
 
-## 📊 Progress Tracker
-
-- 🔥 Total Problems Solved: 30
-- 🟢 Easy: XX
-- 🟡 Medium: XX
-- 🔴 Hard: XX
-- 📅 Daily Practice Streak: Ongoing
-
----
-
 ## 📂 Folder Structure
 
 ---
@@ -24,10 +14,7 @@ I am consistently practicing DSA to improve problem-solving skills and prepare f
 - Arrays
 - Strings
 - Recursion
-- Binary Trees
-- Linked List
 - Dynamic Programming
-- Graph Algorithms
 - Bit Manipulation
 
 ---
