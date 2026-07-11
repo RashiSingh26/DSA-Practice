@@ -58,6 +58,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -113,6 +115,7 @@ Each solution includes clean code and optimized approach.
 | [0015-3sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RashiSingh26/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +123,7 @@ Each solution includes clean code and optimized approach.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -144,6 +148,7 @@ Each solution includes clean code and optimized approach.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
