@@ -145,6 +145,7 @@ Each solution includes clean code and optimized approach.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RashiSingh26/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh26/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -209,6 +210,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashiSingh26/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RashiSingh26/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -249,4 +251,8 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashiSingh26/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
