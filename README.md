@@ -63,6 +63,7 @@ Each solution includes clean code and optimized approach.
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/RashiSingh26/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## String
@@ -168,6 +169,7 @@ Each solution includes clean code and optimized approach.
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RashiSingh26/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/RashiSingh26/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RashiSingh26/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
