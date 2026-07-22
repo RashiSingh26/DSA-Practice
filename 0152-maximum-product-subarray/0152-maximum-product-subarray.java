@@ -13,8 +13,8 @@ class Solution {
             maxend=Math.max(v1,Math.max(v2,v3));
             minend=Math.min(v1,Math.min(v2,v3));
             result=Math.max(result,Math.max(maxend,minend));
-
         }
         return result;
+       
     }
 }
