@@ -58,6 +58,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RashiSingh26/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/RashiSingh26/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ Each solution includes clean code and optimized approach.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RashiSingh26/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -197,6 +199,7 @@ Each solution includes clean code and optimized approach.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RashiSingh26/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
