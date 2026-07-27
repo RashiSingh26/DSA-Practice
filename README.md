@@ -58,6 +58,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/RashiSingh26/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0525-contiguous-array) |
@@ -149,6 +150,7 @@ Each solution includes clean code and optimized approach.
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh26/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/RashiSingh26/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0162-find-peak-element) |
@@ -255,4 +257,8 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RashiSingh26/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
