@@ -4,7 +4,6 @@ class Solution {
         if(n==0)
         return 0;
         Arrays.sort(nums);
-
         int count=1;
         int maxcount=1;
         for(int i=1;i<n;i++){
@@ -12,13 +11,13 @@ class Solution {
                 count++;
             }
             else if(nums[i]==nums[i-1]){
-                continue;
+               continue;
+
             }
             else{
                 count=1;
-               
             }
-             maxcount=Math.max(maxcount,count);
+            maxcount=Math.max(maxcount,count);
         }
         return maxcount;
 
