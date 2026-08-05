@@ -10,6 +10,7 @@ class Solution {
             }
             if(sum<target){
                 left++;
+
             }
             else{
                 right--;
