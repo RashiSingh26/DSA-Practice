@@ -7,10 +7,9 @@ class Solution {
         if(nums[cm]!=nums[officer]){
             officer++;
             nums[officer]=nums[cm];
+
         }
-        else{
-            cm++;
-        }
+        cm++;
     }
     return officer+1;
     }
