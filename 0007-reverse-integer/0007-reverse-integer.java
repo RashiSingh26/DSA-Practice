@@ -4,13 +4,16 @@ class Solution {
         while(x!=0){
             int dig=x%10;
 
-            if(rev>Integer.MAX_VALUE/10 || rev<Integer.MIN_VALUE/10){
+            if(rev>Integer.MAX_VALUE/10  || rev<Integer.MIN_VALUE/10){
                 return 0;
+            
             }
-            rev=rev*10+dig;
-            x/=10;
+                rev=rev*10+dig;
+                x/=10;
+            
         }
-return rev;
+            return rev;
+        
     }
 
 }
