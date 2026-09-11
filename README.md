@@ -115,6 +115,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0053-maximum-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -125,6 +126,7 @@ Each solution includes clean code and optimized approach.
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RashiSingh26/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RashiSingh26/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
@@ -166,6 +168,7 @@ Each solution includes clean code and optimized approach.
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashiSingh26/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RashiSingh26/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RashiSingh26/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
@@ -281,4 +284,12 @@ Each solution includes clean code and optimized approach.
 | [0176-second-highest-salary](https://github.com/RashiSingh26/DSA-Practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RashiSingh26/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/RashiSingh26/DSA-Practice/tree/master/0183-customers-who-never-order) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
