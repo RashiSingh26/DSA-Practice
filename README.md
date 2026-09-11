@@ -133,6 +133,7 @@ Each solution includes clean code and optimized approach.
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Each solution includes clean code and optimized approach.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RashiSingh26/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RashiSingh26/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -273,6 +275,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Union-Find
 |  |
 | ------- |
