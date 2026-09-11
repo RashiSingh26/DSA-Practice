@@ -2,20 +2,26 @@ import java.util.*;
 
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int count = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            int sum = 0;
+        int n = nums.length;
+        int sum = 0;
+        int res = 0;
 
-            for (int j = i; j < nums.length; j++) {
-                sum += nums[j];
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-                if (sum == k) {
-                    count++;
-                }
-            }
+        map.put(0,1);
+
+        for(int i = 0; i < n; i++){
+
+            sum += nums[i];
+
+            int ques = sum - k;
+
+            res += map.getOrDefault(ques,0);
+
+            map.put(sum, map.getOrDefault(sum,0) + 1);
         }
 
-        return count;
+        return res;
     }
 }
