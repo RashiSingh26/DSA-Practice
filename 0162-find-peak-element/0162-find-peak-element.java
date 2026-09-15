@@ -3,9 +3,9 @@ class Solution {
         int n=nums.length;
         int low=0;
         int high=n-1;
-    
+
         while(low<high){
-            int guess=(low+high)/2;
+            int guess=low+(high-low)/2;
             if(nums[guess]<nums[guess+1]){
                 low=guess+1;
             }
@@ -13,7 +13,9 @@ class Solution {
 
                 high=guess;
             }
+            
         }
         return low;
+
     }
 }
