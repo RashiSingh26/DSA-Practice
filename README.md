@@ -295,4 +295,12 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
