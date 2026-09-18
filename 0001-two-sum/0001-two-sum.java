@@ -7,9 +7,8 @@ class Solution {
                 if(sum==target){
                     return new int[]{i,j};
                 }
-
             }
         }
-       return new int[]{};
+        return new int[]{};
     }
 }
