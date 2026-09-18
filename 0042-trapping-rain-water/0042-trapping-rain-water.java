@@ -17,21 +17,20 @@ class Solution {
                 else{
                     water+=leftmax-height[left];
                     left++;
-
                 }
             }
                 else{
                     if(height[right]>rightmax){
                         rightmax=height[right];
-                }
-                else{
-                    water+=rightmax-height[right];
-                    right--;
-                }
-                }
 
-            }
-        
+                    }
+                    else{
+                        water+=rightmax-height[right];
+                        right--;
+                    }
+                }
+            
+        }
         return water;
     }
 }
