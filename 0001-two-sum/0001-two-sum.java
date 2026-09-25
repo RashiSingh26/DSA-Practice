@@ -6,6 +6,7 @@ class Solution {
             int sum=nums[i]+nums[j];
             if(sum==target){
                 return new int[]{i,j};
+
             }
         }
        }
