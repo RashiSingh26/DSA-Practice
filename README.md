@@ -77,6 +77,7 @@ Each solution includes clean code and optimized approach.
 | [0125-valid-palindrome](https://github.com/RashiSingh26/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RashiSingh26/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0796-rotate-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RashiSingh26/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -306,4 +307,8 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
