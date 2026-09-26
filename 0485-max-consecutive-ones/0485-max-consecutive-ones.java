@@ -7,18 +7,16 @@ class Solution {
      for(int i=0;i<n;i++){
         if(nums[i]==1){
             count++;
-            maxcount=Math.max(maxcount,count);
-
+           
 
         }
         else{
             count=0;
+            
         }
-        
-        
-        
-     }
-     return maxcount;
+        maxcount=Math.max(maxcount,count);
 
+     }
+return maxcount;
     }
 }
