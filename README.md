@@ -69,6 +69,7 @@ Each solution includes clean code and optimized approach.
 | [0974-subarray-sums-divisible-by-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/RashiSingh26/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RashiSingh26/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
@@ -142,6 +143,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0169-majority-element](https://github.com/RashiSingh26/DSA-Practice/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RashiSingh26/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RashiSingh26/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -195,6 +197,7 @@ Each solution includes clean code and optimized approach.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RashiSingh26/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RashiSingh26/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RashiSingh26/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RashiSingh26/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3637-trionic-array-i) |
 ## Binary Search
