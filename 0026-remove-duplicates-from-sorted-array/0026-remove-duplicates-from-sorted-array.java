@@ -3,6 +3,7 @@ class Solution {
    int n=nums.length;
    int cm=1;
    int officer=0;
+
    while(cm<n){
     if(nums[cm]!=nums[officer]){
         officer++;
