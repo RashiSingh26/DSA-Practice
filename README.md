@@ -80,6 +80,7 @@ Each solution includes clean code and optimized approach.
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0796-rotate-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1903-largest-odd-number-in-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RashiSingh26/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/RashiSingh26/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -111,6 +112,7 @@ Each solution includes clean code and optimized approach.
 | [0268-missing-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RashiSingh26/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1903-largest-odd-number-in-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/RashiSingh26/DSA-Practice/tree/master/1925-count-square-sum-triples) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RashiSingh26/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Divide and Conquer
@@ -283,6 +285,7 @@ Each solution includes clean code and optimized approach.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RashiSingh26/DSA-Practice/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/RashiSingh26/DSA-Practice/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Union-Find
 |  |
