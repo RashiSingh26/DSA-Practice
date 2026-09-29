@@ -8,26 +8,23 @@ class Solution {
        for(int i=0;i<n;i++){
         if(visited[i]){
             continue;
-
         }
         int count=0;
         for(int j=i;j<n;j++){
             if(nums[i]==nums[j]){
                 count++;
-                visited[i]=true;
+                visited[j]=true;
+
             }
         }
         if(count>max){
             max=count;
             ans=count;
         }
-        else{
-            if(count==max){
-                ans+=count;
-            }
+        else if(count==max){
+            ans+=count;
 
         }
-        
        }
        return ans;
     }
