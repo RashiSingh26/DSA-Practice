@@ -76,6 +76,7 @@ Each solution includes clean code and optimized approach.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RashiSingh26/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/RashiSingh26/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RashiSingh26/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0796-rotate-string) |
@@ -256,6 +257,7 @@ Each solution includes clean code and optimized approach.
 | [0075-sort-colors](https://github.com/RashiSingh26/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RashiSingh26/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashiSingh26/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
