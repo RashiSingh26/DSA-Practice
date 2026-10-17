@@ -79,6 +79,7 @@ Each solution includes clean code and optimized approach.
 | [0125-valid-palindrome](https://github.com/RashiSingh26/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RashiSingh26/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0761-special-binary-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0796-rotate-string) |
@@ -265,6 +266,7 @@ Each solution includes clean code and optimized approach.
 | [0189-rotate-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RashiSingh26/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RashiSingh26/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/RashiSingh26/DSA-Practice/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/RashiSingh26/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
